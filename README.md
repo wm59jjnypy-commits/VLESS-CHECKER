@@ -35,3 +35,6 @@ Each endpoint is evaluated based on:
 - Fingerprint support
 
 Score range: **0–11**
+## installation
+download: requests in python
+paste and turn on code

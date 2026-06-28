@@ -35,12 +35,3 @@ Each endpoint is evaluated based on:
 - Fingerprint support
 
 Score range: **0–11**
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/X8XL8K8ST/vless-checker.git
-cd vless-checker
-pip install -r requirements.txt
